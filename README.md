@@ -1,5 +1,5 @@
 # EMWIN-NON-CMIP-SCRIPTS-FOR-GOESTOOLS
-These scripts can be added to separately process EMWIN, NON- CMIP, DCS, ADMIN MSG products using GOESTOOLS
+These scripts by Taylor Bates https://github.com/tmbates12 can be added to separately process EMWIN, NON- CMIP, DCS, ADMIN MSG products using GOESTOOLS
 You can find most instructions for this on my website at https://usradioguy.com/ under the various topic headings.
 
 Note that these scripts are work in progress and may work, but NOT guaranteed!!!!
